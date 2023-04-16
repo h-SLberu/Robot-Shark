@@ -12,6 +12,7 @@ Suivez les indications sur l'image ci-dessous pour télécharger les fichiers es
 ### Librairie Arduino
 
 Avant de télécharger le code du robot sur l'Arduino, il va être important de procéder d'abord au placement du dossier «mecanum_drive» et du dossier «Adafruit_Bluefruit_LE_nRF51» dans le dossier Arduino/libraries/. <br></br>
-<img src="https://user-images.githubusercontent.com/114363143/232262833-2eee4c9a-3ac8-4a7c-89bd-d9a580304005.png" width=30% height=30%/>
+<img src="https://user-images.githubusercontent.com/114363143/232279046-22a2c41e-f4a7-454b-892c-d4d528d60d9f.png" width=30% height=30%> <img src="https://user-images.githubusercontent.com/114363143/232262833-2eee4c9a-3ac8-4a7c-89bd-d9a580304005.png" width=30% height=30%/>
 
 Une fois toutes les étapes complétées, vous êtes maintenant libres de télécharger le code [Robot_shark.ino](https://github.com/h-SLberu/Robot-Shark/blob/main/Controller/Robot_Shark.ino) sur votre robot.
+
